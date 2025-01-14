@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tasbi16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tasbi16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md tasbi hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md tasbi hassan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-tasbi-hassan-b3693b238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md tasbi hassan" height="30" width="40" /></a>
 <a href="https://kaggle.com/tasbihassan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasbihassan16" height="30" width="40" /></a>
-<a href="https://fb.com/md tasbi hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md tasbi hassan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/annuribna.tasbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md tasbi hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/tasbi.joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasbi.joy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mdtasbi1693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdtasbi1693" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tasbi0216" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tasbi0216" height="30" width="40" /></a>
