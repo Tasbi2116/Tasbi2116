@@ -1,3 +1,4 @@
+![logo](https://github.com/Tasbi2116/Tasbi2116/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Tasbi Hassan</h1>
 <h3 align="center">Undergraduate Computer Science and Engineering student at Khulna University, Khulna</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/5eKX.gif">
